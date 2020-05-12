@@ -1,3 +1,3 @@
-# **Recipes during the COVID-19 Lockdown**  **新冠肺炎时期研究的食谱**
+# **Recipes during the COVID-19 Lockdown**
 
-## 红豆酥
+## [红豆酥](./snacks/HongDouSu.md)
