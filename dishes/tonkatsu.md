@@ -26,3 +26,7 @@ Bilibili视频：
 
 Youtube视频：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRk3YZnAz3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Reference：
+[1] 下厨房：免炸酥烤【日式炸猪排】还可以做香脆炸虾炸鸡炸万物🤩 https://www.xiachufang.com/recipe/104128220/
