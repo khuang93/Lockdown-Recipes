@@ -10,20 +10,25 @@
    
 ### 牛
 1. [水煮牛肉](dishes/shui_zhu_niu_rou.md)
+2. 红烧牛肉
+3. 酱牛肉
    
 ### 羊
 1. [孜然羊肉](dishes/zi_ran_yang_rou.md)
+2. 葱爆羊肉
 
 ### 鸡
 1. [盐酥鸡](dishes/yan_su_ji.md)
 2. [辣子鸡](dishes/la_zi_ji.md)
 3. [照烧鸡腿排](dishes/zhao_shao_ji_tui.md)
 4. [凉拌手撕鸡](dishes/shou_si_ji.md)
+5. 糯米鸡
 
 ### 鱼
 1. 红烧鱼
 2. 水煮鱼
 3. 酸菜鱼
+4. 照烧三文鱼
 
 ### 海鲜
 1. [芹菜炒海鲜](dishes/qin_cai_hai_xian.html)
@@ -48,3 +53,4 @@
 6. [桃酥](snacks/tao_su.md)
 7. [Cookies](snacks/cookies.md)
 8. [蛋挞](snacks/nata.md)
+9. 粽子
