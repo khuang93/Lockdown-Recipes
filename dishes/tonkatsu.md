@@ -22,7 +22,7 @@
 
 
 Bilibili视频：
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=753231659&bvid=BV1bk4y167Hd&cid=192228257&page=1&high_quality=1&danmaku=0&as_wide=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=753231659&bvid=BV1bk4y167Hd&cid=192228257&page=1&high_quality=1&danmaku=0&as_wide=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 
 Youtube视频：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRk3YZnAz3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
